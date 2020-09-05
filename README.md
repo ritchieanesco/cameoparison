@@ -1,6 +1,6 @@
-# svelte app
+# Cameoparison
 
-Experimentation with svelte component framework.
+Svelte tutorial and experimentation with svelte component framework.
 
 ## Get started
 
